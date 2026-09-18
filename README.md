@@ -135,4 +135,4 @@ This project is licensed under the [MIT License](./LICENSE.md).
 
 # 🎯 Final Tip
 
-> Use Qlik2Quick to dramatically accelerate your BI cloud migration efforts and modernize legacy reporting ecosystems.
+> Use Qlik2Quick to dramatically accelerate your BI cloud migration efforts and modernize legacy reporting ecosystems. 
